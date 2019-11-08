@@ -1,0 +1,19 @@
+{
+  "name": "electron-bug-net-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth-parser": "0.0.2",
+    "proxy": "^1.0.1",
+    "electron4": "npm:electron@4",
+    "electron5": "npm:electron@5",
+    "electron6": "npm:electron@6",
+    "electron7": "npm:electron@7"
+  }
+}
